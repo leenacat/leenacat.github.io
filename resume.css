@@ -2,7 +2,7 @@
 html {
   font-family: 'Libre Baskerville', serif;
   font-size: 17px;
-  background-color: #eebf81;
+  background-color: #eb9a31;
 }
 
 img {
@@ -15,12 +15,14 @@ img {
 }
 
 header {
+  color:#0312eb8f;
   text-align: center;
   margin-left: 660px;
 }
 
 .experience {
   background-color: #0312eb8f;
+  color:#ebd58f;
   border-radius: 10px;
   float: left;
   padding: 20px;
@@ -34,6 +36,7 @@ header {
 
 .summary {
   border-radius: 10px;
+  color:#ebd58f;
   background-color: #0312eb8f;
   float: left;
   padding: 20px;
