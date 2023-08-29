@@ -1,48 +1,48 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 html {
+  background-color: #eb9a31;
   font-family: 'Libre Baskerville', serif;
   font-size: 17px;
-  background-color: #eb9a31;
 }
 
 img {
-  margin-right: 600px;
-  margin-bottom: 20px;
   border: #ffe4c4 solid 1px;
   border-radius: 10px;
   float: right;
+  margin-right: 600px;
+  margin-bottom: 20px;
   object-fit: contain;
 }
 
 header {
   color:#0312eb8f;
-  text-align: center;
   margin-left: 660px;
+  text-align: center;
 }
 
 .experience {
   background-color: #0312eb8f;
-  color:#ebd58f;
-  border-radius: 10px;
-  float: left;
-  padding: 20px;
   border: 2px solid #6072d6;
-  margin-right: 300px;
-  margin-left: 30px;
+  border-radius: 10px;
+  color:#ebd58f;
+  float: left;
   height: 500px;
-  width: 500px;
+  margin-left: 30px;
+  margin-right: 300px;
   overflow: auto;
+  padding: 20px;
+  width: 500px;
 }
 
 .summary {
+  background-color: #0312eb8f;
+  border: 2px solid #6072d6;
   border-radius: 10px;
   color:#ebd58f;
-  background-color: #0312eb8f;
   float: left;
-  padding: 20px;
-  border: 2px solid #6072d6;
+  height: 500px;
   margin-top: 40px;
   margin-left: 300px;
-  height: 500px;
+  padding: 20px;
   width: 500px;
 }
